@@ -1,2 +1,2 @@
-# Guided_Capstone_Project-Data_Wrangling
+# Guided_Capstone_Project
 # First step to clean data
